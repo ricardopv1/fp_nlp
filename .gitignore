@@ -1,2 +1,5 @@
 *.pyc
+output/eval_output/runs/*
+\neval_output/runs/*
+eval_output/runs/*
 output/
